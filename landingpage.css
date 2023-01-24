@@ -1,0 +1,250 @@
+nav{
+    margin: -40px;
+    padding-left: 500px;
+    display: flexbox;
+}
+a{
+    margin: 40px;
+    color: gray;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+a:hover{
+    color: purple;
+    text-decoration: underline;
+
+}
+
+button{
+    border: none;
+    margin-right: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    background-color: #FFD8DB ;
+    color: blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+}
+ img{
+    margin-left: 0px;
+ }
+ h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 90px;
+ }
+ p{
+    margin: 95px;
+    margin-top: -50px;
+ }
+ input{
+    position: relative;
+    border: none;
+    top:-70px;
+    margin-left: 95px;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgba(31, 31, 146, 0.815);
+ }
+aside{
+    margin-left: 700px;
+    margin-top: -400px;
+}
+aside img{
+    width: 500px;
+    height: 500px;
+}
+.card1 {
+    margin: 90px;
+    margin-top: -150px;
+    margin-left: 60px;
+  box-shadow: rgba(0,0,0,0.2);
+  height: 50px;
+  width: 400px;
+  transition: 0.3s;
+  border-radius: 15px;
+  background-color: rgba(15, 15, 15, 0.027);
+  text-align: center;
+}
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(17, 2, 2, 0.466);
+}
+.container {
+  padding: 2px 16px;
+}
+.Damm{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 70px;
+}
+.tick-gray{
+    margin-top: 10px;
+    margin-right: 570px;
+    margin-left: 10px;
+}
+.user-pink{
+    margin-top: -1000px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+.Dec{
+    margin-left: 250px;
+    margin-top: -48px;
+    color:gray;
+}
+.button1{
+    margin: 400px;
+    margin-right: 850px ;
+    margin-top: 430px;
+    height: 20px;
+    width: 40px;
+    background-color:rgb(241, 130, 199);
+
+}
+.card2 {
+    margin: 90px;
+    margin-top: -100px;
+    margin-left: 60px;
+  box-shadow: rgba(0,0,0,0.2);
+  height: 50px;
+  width: 400px;
+  transition: 0.3s;
+  border-radius: 15px;
+  background-color: rgba(15, 15, 15, 0.027);
+  text-align: center;
+}
+.card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(17, 2, 2, 0.466);
+  }
+  .container2 {
+    padding: 2px 16px;
+  }
+  .Damm{
+      position: absolute;
+      margin-top: -30px;
+      margin-left: 70px;
+  }
+  .tick-blue{
+      margin-top: 10px;
+      margin-right: 570px;
+      margin-left: 10px;
+  }
+  .user-yellow{
+      margin-top: -1000px;
+      margin-bottom: 15px;
+      margin-right: 10px;
+  }
+  .Dec{
+    margin-left: 250px;
+    margin-top: -48px;
+    color:gray;
+  }
+  .button2{
+    margin: 1000px;
+    margin-right: 850px ;
+    margin-top: 485px;
+    height: 20px;
+    width: 40px;
+    background-color: red;
+
+}
+  .card3 {
+    margin: 90px;
+    margin-top: -90px;
+    margin-left: 60px;
+  box-shadow: rgba(0,0,0,0.2);
+  height: 50px;
+  width: 400px;
+  transition: 0.3s;
+  border-radius: 15px;
+  background-color: rgba(15, 15, 15, 0.027);
+  text-align: center;
+}
+  .card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(17, 2, 2, 0.466);
+  }
+  .container3 {
+    padding: 2px 16px;
+  }
+  .Damm{
+      position: absolute;
+      margin-top: -30px;
+      margin-left: 70px;
+  }
+  .tick-gray2{
+      margin-top: 10px;
+      margin-right: 570px;
+      margin-left: 10px;
+  }
+  .user-blue{
+      margin-top: -1000px;
+      margin-bottom: 15px;
+      margin-right: 10px;
+  }
+  .Dec{
+    margin-left: 250px;
+    margin-top: -48px;
+    color:gray;
+  }
+  .button3{
+    margin: 400px;
+    margin-right: 850px ;
+    margin-top: 540px;
+    height: 20px;
+    width: 40px;
+    background-color: lightgreen;
+
+}
+  .card4 {
+    margin: 90px;
+    margin-top: -89px;
+    margin-left: 60px;
+  box-shadow: rgba(0,0,0,0.2);
+  height: 50px;
+  width: 400px;
+  transition: 0.3s;
+  border-radius: 15px;
+  background-color: rgba(15, 15, 15, 0.027);
+  text-align: center;
+}
+  .card4:hover {
+    box-shadow: 0 8px 16px 0 rgba(17, 2, 2, 0.466);
+  }
+  .container4 {
+    padding: 2px 16px;
+  }
+  .Damm{
+      position: absolute;
+      margin-top: -30px;
+      margin-left: 70px;
+  }
+  .tick-gray3{
+      margin-top: 10px;
+      margin-right: 570px;
+      margin-left: 10px;
+  }
+  .user-red{
+      margin-top: -1000px;
+      margin-bottom: 15px;
+      margin-right: 10px;
+  }
+  .Dec{
+    margin-left: 250px;
+    margin-top: -48px;
+    color:gray;
+  }
+  .button4{
+    margin: 400px;
+    margin-right: 850px ;
+    margin-top:595px;
+    height: 20px;
+    width: 40px;
+    background-color:rgb(255, 166, 0);
+
+}
+  
